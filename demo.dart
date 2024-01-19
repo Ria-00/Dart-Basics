@@ -61,6 +61,11 @@ void main(){
   // print(val+' ');
 
 
+  //num can take both decimal and normal values
+  num d = 100;
+  num d1 = 100.69;
+  print(d+d1);
+
   
 
 
