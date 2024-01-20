@@ -18,4 +18,7 @@ void main(){
   print("Enter a word:");
   String a=stdin.readLineSync()!;
   palindrome(a);
+  // str.reverse()  
+  // input: hello ; output:olleh
 }
+
