@@ -31,6 +31,7 @@ class Person{
   // 3.
   Person({required name, required age}): this.name = name, this.age = age;
 
+  @override
   String toString(){
     return 'Name: $name, Age: $age';
   }
